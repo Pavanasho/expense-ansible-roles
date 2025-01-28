@@ -2,3 +2,5 @@ login_user: root
 login_password: ExpenseApp@1
 login_host: mysql.dpak.online
 local_host: mysql.dpak.online
+component: backend
+app_location: /app
